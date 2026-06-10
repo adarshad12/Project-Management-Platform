@@ -24,8 +24,8 @@ flowchart TD
     service --> cache[Redis board cache eviction]
     service --> replay[Redis replay buffer append]
     service --> stomp[STOMP publish]
-    stomp --> boardTopic[/topic/projects/projectId/board]
-    stomp --> issueTopic[/topic/issues/issueId]
+    stomp --> boardTopic["/topic/projects/{projectId}/board"]
+    stomp --> issueTopic["/topic/issues/{issueId}"]
 ```
 
 ## Event Producers
