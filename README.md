@@ -429,9 +429,9 @@ Hosted submission fields:
 
 ```text
 GitHub repo: https://github.com/adarshad12/Project-Management-Platform
-Hosted prototype: <fill after Render deploy>
-Swagger: <hosted prototype>/swagger-ui.html
-Health: <hosted prototype>/actuator/health
+Hosted prototype: https://project-management-platform-api.onrender.com
+Swagger: https://project-management-platform-api.onrender.com/swagger-ui.html
+Health: https://project-management-platform-api.onrender.com/actuator/health
 ```
 
 For hosted deployment steps and operational assumptions, see [Render Hosted Prototype Deployment](docs/deployment-render.md).
