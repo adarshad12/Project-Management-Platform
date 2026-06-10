@@ -158,8 +158,8 @@ Only run the full 100-VU hosted test if the selected Render service and datastor
 Fill these in after deploy:
 
 ```text
-GitHub repo: <repo-url>
-Hosted prototype: https://<render-service-name>.onrender.com
-Swagger: https://<render-service-name>.onrender.com/swagger-ui.html
-Health: https://<render-service-name>.onrender.com/actuator/health
+GitHub repo: https://github.com/adarshad12/Project-Management-Platform
+Hosted prototype: https://project-management-platform-api.onrender.com
+Swagger: https://project-management-platform-api.onrender.com/swagger-ui.html
+Health: https://project-management-platform-api.onrender.com/actuator/health
 ```
